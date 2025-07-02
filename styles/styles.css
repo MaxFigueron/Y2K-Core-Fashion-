@@ -27,7 +27,9 @@ main{
 /* INSPO */
 
 /* ABOUT */
-
+.carousel-caption-propio {
+    color: black;
+}
 /* REVIEWS */
 .p-reviews {
     color: indigo;
