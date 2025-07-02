@@ -19,16 +19,41 @@
 footer {
     background-color: bisque;
 }
-
+.p-footer {
+    font-family: "Playfair Display", serif;
+}
+ .h1-titulos{
+    font-family:"Playfair Display", serif; 
+ }
+ .nav-item-propio{
+    font-family: "Playfair Display", serif;
+ }
 /* HOME */
 main{
     background-color: rgb(233, 212, 222);
 }
+.p-home {
+    font-family: "Playfair Display", serif;
+}
 /* INSPO */
-
+.p-inspo {
+    font-family: "Playfair Display", serif;
+}
 /* ABOUT */
 .carousel-caption-propio {
     color: black;
+}
+.p-about {
+    font-family: "Playfair Display", serif;
+}
+.p-carrusel {
+    font-family: "Playfair Display", serif;
+}
+.h5-carrusel{
+    font-family: "Playfair Display", serif;
+}
+.h5-about{
+    font-family: "Playfair Display", serif;
 }
 /* REVIEWS */
 .p-reviews {
@@ -45,11 +70,19 @@ main{
 .fundadora {
     color: blueviolet;
     background-color: lightpink;
+    font-family: "Imperial Script", cursive;
 }
 .formulario {
     background-color: rgb(192, 186, 186);
 }
-
-
+.p-contacto {
+    font-family: "Playfair Display", serif;
+}
+.h4-user {
+    font-family: "Playfair Display", serif;
+}
+.form-label-propio {
+    font-family: "Playfair Display", serif;
+}
 
 
