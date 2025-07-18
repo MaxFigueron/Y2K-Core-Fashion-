@@ -48,6 +48,9 @@ main{
 .formulario {
     background-color: rgb(192, 186, 186);
 }
+.myspace {
+    text-align: center;
+}
 body {
     font-family:"Playfair Display", serif;
 }
