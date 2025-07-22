@@ -6,6 +6,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Imperial+Script&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 /* font-family: "Imperial Script", cursive; */
 
+/* NAV */
 .bg-navbar-propio {
     background-color: pink;
 }
@@ -13,13 +14,23 @@
     width: 30px;
     height: 30px;
 }
+
+/* FOOTER */
 footer {
     background-color: bisque;
+}
+.iconos-contacto-footer {
+    width: 50px;
+    height: 25px;
 }
 
 /* HOME */
 main{
     background-color: rgb(233, 212, 222);
+}
+.home-foto-principal{
+    width: 500px;
+    height: 500px;
 }
 
 /* ABOUT */
@@ -51,6 +62,18 @@ main{
 .myspace {
     text-align: center;
 }
+.contacto-redes-iconos {
+    width: 150px;
+    height: 100px;
+}
 body {
     font-family:"Playfair Display", serif;
+}
+.mi-logo-y2k {
+    width: 200px;
+    height: 50px;
+}
+.imagen-myspace {
+    width: 350px;
+    height: 350px;
 }
