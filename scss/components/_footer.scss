@@ -1,0 +1,14 @@
+@use "../partials/utilities/variables";
+
+footer {
+  background-color: bisque;
+
+  .iconos-contacto-footer {
+    width: 50px;
+    height: 25px;
+    &:hover {
+      color: variables.$hover-color;
+    }
+  }
+
+}

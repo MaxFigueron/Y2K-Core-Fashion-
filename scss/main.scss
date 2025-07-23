@@ -1,0 +1,14 @@
+// BASE 
+@use "../scss/partials/base/reset";
+@use "../scss/partials/base/tipografia";
+// PARTIALS
+@use "./components/navbar";
+@use "./components/body";
+@use "./components/footer";
+@use "./components/home";
+@use "./components/about";
+@use "./components/reviews";
+@use "./components/contacto";
+@use "./components/mi.logo.y2k";
+@use "./components/inspo";
+@use "./components/button"

@@ -1,0 +1,25 @@
+
+
+.button {
+    display: inline-block;
+    text-decoration: none;
+    color: indigo;
+    border-radius: 2px;
+    padding: 2px 4px;
+}
+.button-accept {
+    @extend .button;
+    background-color: rgb(98, 189, 201);
+    text-align:left;
+}
+.button-deny {
+    @extend .button;
+        background-color: rgb(202, 131, 202);
+        text-align:right;
+    }
+.button-container {
+  display: flex;
+  justify-content: center; 
+  gap: 1rem; 
+}
+

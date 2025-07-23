@@ -1,0 +1,10 @@
+@use "../partials/utilities/variables";
+.p-reviews {
+    color:indigo;
+    font-size: 25px;
+    font-family:variables.$font-imperial;
+}
+.card-propio {
+    width: 18rem;
+    background-color:rgb(209,216,216);
+}

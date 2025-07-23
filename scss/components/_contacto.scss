@@ -1,0 +1,27 @@
+@use "../partials/utilities/variables";
+@import "../partials/utilities/mixins";
+
+.fundadora {
+    color:blueviolet;
+    background-color:lightpink;
+    font-family: variables.$font-imperial;
+    &:hover {
+        color:variables.$hover-color;
+    }
+   @include boton(fuchsia,black,purple);
+    
+}
+.formulario {
+    background-color: rgb(192,186,186)
+}
+.myspace {
+    text-align:center;
+}
+.contacto-redes-iconos {
+    width: 150px;
+    height: 100px;
+}
+.imagen-myspace {
+    width: 350px;
+    height: 350px;
+}

@@ -1,0 +1,12 @@
+@use "../partials/utilities/variables";
+main {
+    background-color:rgb(233,212,222)
+}
+.home-foto-principal{
+    width:500px;
+    height:500px;
+}
+.main-content {
+font-family: variables.$fuente-secundaria;
+}
+
