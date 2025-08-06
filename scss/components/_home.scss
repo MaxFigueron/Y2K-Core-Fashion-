@@ -3,10 +3,17 @@ main {
     background-color:rgb(233,212,222)
 }
 .home-foto-principal{
-    width:500px;
-    height:500px;
+    width: 100%;
+    max-width: 500px;
+    height: auto;
 }
 .main-content {
 font-family: variables.$fuente-secundaria;
+margin-top: 30px;
+margin-bottom: 20px;
+}
+.h4-main {
+    margin-top: 30px;
+    margin-bottom: 20px;
 }
 
